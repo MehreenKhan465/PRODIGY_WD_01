@@ -20,9 +20,3 @@ The navigation bar changes style when scrolling and provides hover effects for m
 - **CSS:** Styling, hover effects, scroll animations, and transitions.
 - **JavaScript:** Detects page scroll and toggles navbar style dynamically.<br>
 
----
-
-## How to Run
-1. Clone the repository:
-   ```bash
-   git clone https://github.com/MehreenKhan465/PRODIGY_WD_01
