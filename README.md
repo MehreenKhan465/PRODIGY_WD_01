@@ -1,7 +1,7 @@
 # PRODIGY_WD_01
 
 ## Overview
-This project is part of my Web Development Internship (Task 2). It features an **interactive, fixed navigation menu** that enhances user experience with dynamic styling.
+This project is part of my Web Development Internship (Task 1). It features an **interactive, fixed navigation menu** that enhances user experience with dynamic styling.
 
 The navigation bar changes style when scrolling and provides hover effects for menu items, creating a modern, responsive interface.<br>
 
